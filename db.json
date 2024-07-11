@@ -1,0 +1,20 @@
+{
+  "registrations": [
+    {
+      "admissionDate": "12/07/2024",
+      "email": "cichetto@caju.com.br",
+      "employeeName": "Rodrigo Cichetto",
+      "status": "APPROVED",
+      "cpf": "94495851055",
+      "id": "1"
+    },
+    {
+      "admissionDate": "11/07/2024",
+      "email": "gaules@caju.com.br",
+      "employeeName": "Alexandre Borba Chiqueta",
+      "status": "REVIEW",
+      "cpf": "48132016017",
+      "id": "2"
+    }
+  ]
+}
